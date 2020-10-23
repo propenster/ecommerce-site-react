@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-[!](https://github.com/propenster/ecommerce-site-react/blob/master/public/react-js-amazon.PNG)
+![Homepage](https://github.com/propenster/ecommerce-site-react/blob/master/public/react-js-amazon.PNG)
 
 ## Available Scripts
 
